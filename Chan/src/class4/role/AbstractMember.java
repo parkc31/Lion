@@ -1,6 +1,6 @@
-package class3.role;
+package class4.role;
 
-import class3.policy.AssignmentPolicy;
+import class4.policy.AssignmentPolicy;
 
 public abstract class AbstractMember {
     // 부모 클래스의 필드는 private으로 유지
@@ -21,7 +21,7 @@ public abstract class AbstractMember {
     protected abstract AssignmentPolicy getPolicy();
 
     // 역할의 이름("아기사자" 또는 "운영진")을 반환할 추상 메서드
-    protected abstract String getRoleName();
+    public abstract String getRoleName();
 
     // 역할별 상세 정보(학번 또는 직책)를 반환할 추상 메서드
     protected abstract String getRoleDetails();
@@ -39,5 +39,13 @@ public abstract class AbstractMember {
         System.out.println(getRoleDetails());
         System.out.println("📝 과제 제출 가능 여부: " + (canSubmitAssignment() ? "✅ 가능" : "❌ 불가능"));
         System.out.println();
+    }
+
+    public Object getName() {
+        return name;
+    }
+
+    public Object getGeneration() {
+        return generation;
     }
 }

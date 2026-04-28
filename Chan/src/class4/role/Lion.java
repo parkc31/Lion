@@ -1,7 +1,7 @@
-package class3.role;
+package class4.role;
 
-import class3.policy.AssignmentPolicy;
-import class3.policy.LionPolicy;
+import class4.policy.AssignmentPolicy;
+import class4.policy.LionPolicy;
 
 public class Lion extends AbstractMember{
     private String StudentId;
@@ -17,7 +17,7 @@ public class Lion extends AbstractMember{
     }
 
     @Override
-    protected String getRoleName() {
+    public String getRoleName() {
         return "아기사자";
     }
 
