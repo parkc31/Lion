@@ -1,7 +1,7 @@
-package class3.role;
+package class4.role;
 
-import class3.policy.AssignmentPolicy;
-import class3.policy.StaffPolicy;
+import class4.policy.AssignmentPolicy;
+import class4.policy.StaffPolicy;
 
 public class Staff extends AbstractMember {
     private String position; // 운영진 전용 속성 (직책)
@@ -17,7 +17,7 @@ public class Staff extends AbstractMember {
     }
 
     @Override
-    protected String getRoleName() {
+    public String getRoleName() {
         return "운영진";
     }
 

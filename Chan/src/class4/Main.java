@@ -1,8 +1,8 @@
-package class3;
+package class4;
 
-import class3.role.AbstractMember;
-import class3.role.Lion;
-import class3.role.Staff;
+import class4.role.AbstractMember;
+import class4.role.Lion;
+import class4.role.Staff;
 import java.util.Scanner;
 
 public class Main {
