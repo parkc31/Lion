@@ -1,4 +1,4 @@
-package package1;
+package Week3.package1;
 
 public class Lion {
     // 멤버 변수 (서로 다른 3개의 접근 제어자로 구성)

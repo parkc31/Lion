@@ -1,6 +1,6 @@
-package class4.role;
+package Week4.class4.role;
 
-import class4.policy.AssignmentPolicy;
+import Week4.class4.policy.AssignmentPolicy;
 
 public abstract class AbstractMember {
     // 부모 클래스의 필드는 private으로 유지

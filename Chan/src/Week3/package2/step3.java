@@ -1,6 +1,6 @@
-package package2;
+package Week3.package2;
 
-import package1.Lion;
+import Week3.package1.Lion;
 
 import java.util.Scanner;
 

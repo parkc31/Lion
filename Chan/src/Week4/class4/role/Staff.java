@@ -1,7 +1,7 @@
-package class4.role;
+package Week4.class4.role;
 
-import class4.policy.AssignmentPolicy;
-import class4.policy.StaffPolicy;
+import Week4.class4.policy.AssignmentPolicy;
+import Week4.class4.policy.StaffPolicy;
 
 public class Staff extends AbstractMember {
     private String position; // 운영진 전용 속성 (직책)

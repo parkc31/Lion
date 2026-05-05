@@ -1,8 +1,8 @@
-package class4.package1;
+package Week4.class4.package1;
 
-import class4.role.AbstractMember;
-import class4.role.Lion;
-import class4.role.Staff;
+import Week4.class4.role.AbstractMember;
+import Week4.class4.role.Lion;
+import Week4.class4.role.Staff;
 
 import java.util.ArrayList;
 import java.util.List;

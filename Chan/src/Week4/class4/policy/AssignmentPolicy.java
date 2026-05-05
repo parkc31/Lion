@@ -1,4 +1,4 @@
-package class4.policy;
+package Week4.class4.policy;
 
 public interface AssignmentPolicy {
     boolean Submit(); // 과제 제출 가능 여부 반환

@@ -1,7 +1,7 @@
-package class4.role;
+package Week4.class4.role;
 
-import class4.policy.AssignmentPolicy;
-import class4.policy.LionPolicy;
+import Week4.class4.policy.AssignmentPolicy;
+import Week4.class4.policy.LionPolicy;
 
 public class Lion extends AbstractMember{
     private String StudentId;
