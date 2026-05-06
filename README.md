@@ -7,13 +7,13 @@
 
 | 주차 | 과제 주제 | 학습 상태 | 상세 회고 (Blog) |
 | :-- | :--- | :---: | :--- |
-| **1주차** | Java 기초 및 배열 활용 멤버 관리 | ✅ | [1주차는 블로그 미작성, velog에 기본 git 관련 내용을 게시](https://velog.io/@parkc31/%EB%B2%A1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%EA%B8%B0%EC%B4%88-GIT) |
-| **2주차** | 클래스와 객체, 생성자 이해 | ✅ | [Chan.Log (2주차)](https://talk40399.tistory.com/1) |
+| **1주차** | 	Java 핵심 문법 & 흐름 | ✅ | [1주차는 블로그 미작성, velog에 기본 git 관련 내용을 게시](https://velog.io/@parkc31/%EB%B2%A1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%EA%B8%B0%EC%B4%88-GIT) |
+| **2주차** | 객체지향 I - 클래스와 캡슐화 | ✅ | [Chan.Log (2주차)](https://talk40399.tistory.com/1) |
 | **3주차** | 객체지향 II - 상속/다형성/추상화 | ✅ | [Chan.Log (3주차)](https://talk40399.tistory.com/2) |
-| **4주차** | Java 컬렉션 - List와 Map 활용 | ✅ | [Chan.Log (4주차)](https://talk40399.tistory.com/3) |
-| **5주차** | Spring Boot 환경 설정 및 기초 | ✅ | [Chan.Log (5주차)](https://talk40399.tistory.com/4) |
-| **6주차** | Spring Data JPA와 DB 연동 | ⬜ | 대기 중 |
-| **7주차** | REST API 설계 및 문서화 | ⬜ | 대기 중 |
-| **8주차** | Spring Security & JWT 인증 | ⬜ | 대기 중 |
-| **9주차** | 외부 API 연동 및 서비스 고도화 | ⬜ | 대기 중 |
-| **10주차** | 클라우드(AWS) 배포 및 프로젝트 완성 | ⬜ | 대기 중 |
+| **4주차** | Java Collections & 설계 확장 | ✅ | [Chan.Log (4주차)](https://talk40399.tistory.com/3) |
+| **5주차** | 자바로 배우는 IoC/DI | ✅ | [Chan.Log (5주차)](https://talk40399.tistory.com/4) |
+| **6주차** | Spring Boot 전환 | ⬜ | 대기 중 |
+| **7주차** | REST API 설계(CRUD) | ⬜ | 대기 중 |
+| **8주차** | JPA 기초 & 영속성 컨텍스트 | ⬜ | 대기 중 |
+| **9주차** | 연관관계 & 트랜잭션 | ⬜ | 대기 중 |
+| **10주차** | 개인 미니 프로젝트: 예외 처리 통합 & 프론트엔드 연동 | ⬜ | 대기 중 |
